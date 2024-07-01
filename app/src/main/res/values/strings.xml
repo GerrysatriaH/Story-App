@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="setting_lang">Settings Language</string>
+
+    <string name="login_message">Please enter your data first to Login.</string>
+    <string name="register_message">Please complete your data below.</string>
+
+    <string name="ask_to_register">Don\'t have account ?</string>
+    <string name="ask_to_login">Already have account ?</string>
+
+    <string name="action_to_register">Register</string>
+    <string name="action_to_login">Login</string>
+
+    <string name="error_blank">This field can\'t be empty</string>
+    <string name="error_email">The Email is INVALID!</string>
+    <string name="error_password">The Password can\'t be less than 8 character!</string>
+
+    <string name="description_story">Description Story</string>
+    <string name="name_user">Name User</string>
+    <string name="not_found">Data not Found !</string>
+
+    <string name="detail_story">Detail Story</string>
+
+    <string name="add_story">Add Story</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="description">Description</string>
+    <string name="empty_image_gallery">No Image selected</string>
+    <string name="empty_image_upload">There is no Image Data</string>
+
+    <string name="appwidget_text">Story App Widget</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">There is no data</string>
+
+    <string name="change_language_description">Change language settings</string>
+    <string name="logout_description">Log out from your account</string>
+
+    <string name="image_preview_description">Preview image</string>
+    <string name="button_gallery_description">Button to access gallery</string>
+    <string name="button_camera_description">Button to access Camera</string>
+    <string name="button_upload_description">Button to upload your story</string>
+    <string name="ed_add_story_description">Enter your story description here.</string>
+    <string name="image_detail_story_description">Image Story</string>
+    <string name="login_image_description">Login Image</string>
+    <string name="ed_email_description">Enter your email here</string>
+    <string name="ed_password_description">Enter your password here</string>
+    <string name="button_login_description">Button to login</string>
+    <string name="ed_name_description">Enter your name here</string>
+    <string name="button_register">Button to Register</string>
+
+    <string name="positive_button">Oke</string>
+    <string name="alert_main">You are log out, You must log in first to use the application</string>
+
+    <string name="retry">Retry</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="share_location">Share your Location</string>
+    <string name="error_parsing_style_map">Style parsing failed</string>
+    
+    <string name="no_access_granted">No location access granted</string>
+    <string name="error_location">Location is not found. Please check your GPS and try again.</string>
+    <string name="error_disable_GPS">Please enable your GPS</string>
+</resources>
+

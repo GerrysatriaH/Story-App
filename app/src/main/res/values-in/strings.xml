@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="email">Email</string>
+    <string name="name">Nama</string>
+    <string name="password">Kata Sandi</string>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="setting_lang">Pengaturan Bahasa</string>
+
+    <string name="login_message">Mohon masukkan data anda terlebih dahulu untuk login.</string>
+    <string name="register_message">Mohon lengkapi data anda di bawah ini.</string>
+
+    <string name="ask_to_register">Belum punya akun ?</string>
+    <string name="ask_to_login">Sudah punya akun ?</string>
+
+    <string name="action_to_register">Daftar</string>
+    <string name="action_to_login">Masuk</string>
+
+    <string name="error_blank">Kolom ini tidak boleh kosong</string>
+    <string name="error_email">Email TIDAK VALID!</string>
+    <string name="error_password">Kata Sandi tidak boleh kurang dari 8 karakter!</string>
+
+    <string name="description_story">Deskripsi Cerita</string>
+    <string name="name_user">Nama Pengguna</string>
+    <string name="not_found">Data tidak ditemukan !</string>
+
+    <string name="detail_story">Detil Cerita</string>
+
+    <string name="add_story">Buat Cerita</string>
+    <string name="upload">Unggah</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="empty_image_gallery">Tidak ada gambar yang dipilih</string>
+    <string name="empty_image_upload">Tidak ada data gambar</string>
+
+    <string name="appwidget_text">Story App Widget</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="empty_text">Tidak ada data</string>
+
+    <string name="change_language_description">Ubah pengaturan bahasa</string>
+    <string name="logout_description">Keluar dari akun Anda</string>
+    <string name="image_preview_description">Pratinjau gambar</string>
+    <string name="button_gallery_description">Tombol untuk mengakses galeri</string>
+    <string name="button_camera_description">Tombol untuk mengakses Kamera</string>
+    <string name="button_upload_description">Tombol untuk mengunggah cerita Anda</string>
+    <string name="ed_add_story_description">Masukkan deskripsi cerita Anda di sini.</string>
+    <string name="image_detail_story_description">Gambar Cerita</string>
+    <string name="login_image_description">Gambar Masuk</string>
+    <string name="ed_email_description">Masukkan email Anda di sini</string>
+    <string name="ed_password_description">Masukkan kata sandi Anda di sini</string>
+    <string name="button_login_description">Tombol untuk masuk</string>
+    <string name="ed_name_description">Masukkan nama Anda di sini</string>
+    <string name="button_register">Tombol untuk Mendaftar</string>
+
+    <string name="positive_button">Baik</string>
+    <string name="alert_main">Anda Keluar, Anda harus log in terlebih dahulu untuk menggunakan aplikasi</string>
+
+    <string name="retry">Coba Lagi</string>
+    <string name="title_activity_maps">Peta</string>
+    <string name="share_location">Bagikan Lokasi Anda</string>
+    <string name="error_parsing_style_map">Gagal Parsing Style</string>
+
+    <string name="no_access_granted">Tidak ada akses lokasi yang diberikan</string>
+    <string name="error_location">Lokasi tidak ditemukan. Silakan periksa GPS Anda dan coba lagi.</string>
+    <string name="error_disable_GPS">Harap aktifkan GPS Anda</string>
+</resources>

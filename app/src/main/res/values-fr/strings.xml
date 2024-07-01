@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="email">E-mail</string>
+    <string name="name">Nom</string>
+    <string name="password">Mot de passe</string>
+
+    <string name="login">Connexion</string>
+    <string name="register">S\'inscrire</string>
+    <string name="logout">Déconnexion</string>
+    <string name="setting_lang">Langue des paramètres</string>
+
+    <string name="login_message">Veuillez d\'abord saisir vos données pour vous connecter.</string>
+    <string name="register_message">Veuillez compléter vos données ci-dessous.</string>
+
+    <string name="ask_to_register">Vous n\'avez pas de compte ?</string>
+    <string name="ask_to_login">Vous avez déjà un compte ?</string>
+
+    <string name="action_to_register">S\'inscrire</string>
+    <string name="action_to_login">Connexion</string>
+
+    <string name="error_blank">Ce champ ne peut pas être vide</string>
+    <string name="error_email">L\'e-mail est INVALIDE!</string>
+    <string name="error_password">Le mot de passe ne peut pas contenir moins de 8 caractères!</string>
+
+    <string name="description_story">Histoire de description</string>
+    <string name="name_user">Nom de l\'utilisateur</string>
+    <string name="not_found">Données introuvables !</string>
+
+    <string name="detail_story">Histoire détaillée</string>
+
+    <string name="add_story">Ajouter une histoire</string>
+    <string name="upload">Télécharger</string>
+    <string name="gallery">Galerie</string>
+    <string name="camera">Caméra</string>
+    <string name="description">Description</string>
+    <string name="empty_image_gallery">Aucune image sélectionnée</string>
+    <string name="empty_image_upload">Il n\'y a pas de données d\'image</string>
+
+    <string name="appwidget_text">Story App Widget</string>
+    <string name="add_widget">Ajouter un widget</string>
+    <string name="empty_text">Il n\'y a aucune donnée</string>
+
+    <string name="change_language_description">Modifier les paramètres de langue</string>
+    <string name="logout_description">Déconnectez-vous de votre compte</string>
+    <string name="image_preview_description">Aperçu de l\'image</string>
+    <string name="button_gallery_description">Bouton pour accéder à la galerie</string>
+    <string name="button_camera_description">Bouton pour accéder à la caméra</string>
+    <string name="button_upload_description">Bouton pour télécharger votre histoire</string>
+    <string name="ed_add_story_description">Entrez la description de votre histoire ici</string>
+    <string name="image_detail_story_description">Histoire d\'images</string>
+    <string name="login_image_description">Image de connexion</string>
+    <string name="ed_email_description">Entrez votre email ici</string>
+    <string name="ed_password_description">Entrez votre mot de passe ici</string>
+    <string name="button_login_description">Bouton pour se connecter</string>
+    <string name="ed_name_description">Entrez votre nom ici</string>
+    <string name="button_register">Bouton pour s\'inscrire</string>
+
+    <string name="positive_button">Ok</string>
+    <string name="alert_main">Vous êtes déconnecté, Vous devez d\'abord vous connecter pour utiliser l\'application</string>
+
+    <string name="retry">Recommencez</string>
+    <string name="title_activity_maps">Carte</string>
+    <string name="share_location">Partagez votre position</string>
+    <string name="error_parsing_style_map">Échec de l\'analyse du style</string>
+
+    <string name="no_access_granted">Aucun accès à la localisation accordé</string>
+    <string name="error_location">L\'emplacement est introuvable. Veuillez vérifier votre GPS et réessayer.</string>
+    <string name="error_disable_GPS">Veuillez activer votre GPS</string>
+</resources>

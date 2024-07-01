@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="email">Correo electrónico</string>
+    <string name="name">Nombre</string>
+    <string name="password">Contraseña</string>
+
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="setting_lang">Idioma de configuración</string>
+
+    <string name="login_message">Primero ingrese sus datos para iniciar sesión.</string>
+    <string name="register_message">Por favor complete sus datos a continuación.</string>
+
+    <string name="ask_to_register">¿No tienes cuenta?</string>
+    <string name="ask_to_login">¿Ya tienes cuenta?</string>
+
+    <string name="action_to_register">Registrarse</string>
+    <string name="action_to_login">Iniciar sesión</string>
+
+    <string name="error_blank">Este campo no puede estar vacío</string>
+    <string name="error_email">¡El correo electrónico no es válido!</string>
+    <string name="error_password">¡La contraseña no puede tener menos de 8 caracteres!</string>
+
+    <string name="description_story">Descripción de la historia</string>
+    <string name="name_user">Nombre de usuario</string>
+    <string name="not_found">¡Datos no encontrados!</string>
+
+    <string name="detail_story">Historia detallada</string>
+
+    <string name="add_story">Agregar historia</string>
+    <string name="upload">Subir</string>
+    <string name="gallery">Galería</string>
+    <string name="camera">Cámara</string>
+    <string name="description">Descripción</string>
+    <string name="empty_image_gallery">No hay imagen seleccionada</string>
+    <string name="empty_image_upload">No hay datos de imagen</string>
+
+    <string name="appwidget_text">Story App Widget</string>
+    <string name="add_widget">Agregar widget</string>
+    <string name="empty_text">No hay datos</string>
+
+    <string name="change_language_description">Cambiar configuración de idioma</string>
+    <string name="logout_description">Cerrar sesión en su cuenta</string>
+    <string name="image_preview_description">Vista previa de imagen</string>
+    <string name="button_gallery_description">Botón para acceder a la galería</string>
+    <string name="button_camera_description">Botón para acceder a la cámara</string>
+    <string name="button_upload_description">Botón para subir tu historia</string>
+    <string name="ed_add_story_description">Ingrese aquí la descripción de su historia</string>
+    <string name="image_detail_story_description">Image Story</string>
+    <string name="login_image_description">Historia en imagen</string>
+    <string name="ed_email_description">Imagen de inicio de sesión</string>
+    <string name="ed_password_description">Ingrese su contraseña aquí</string>
+    <string name="button_login_description">Botón para iniciar sesión</string>
+    <string name="ed_name_description">Ingrese su nombre aquí</string>
+    <string name="button_register">BBotón para registrarse</string>
+
+    <string name="positive_button">Bien</string>
+    <string name="alert_main">Has cerrado sesión. Primero debes iniciar sesión para utilizar la aplicación.</string>
+
+    <string name="retry">Volver a intentarlo</string>
+    <string name="title_activity_maps">Mapas</string>
+    <string name="share_location">Comparte tu ubicación</string>
+    <string name="error_parsing_style_map">Falló el análisis de estilo</string>
+
+    <string name="no_access_granted">No se ha concedido acceso a la ubicación</string>
+    <string name="error_location">No se encuentra la ubicación. Por favor revisa tu GPS y vuelve a intentarlo.</string>
+    <string name="error_disable_GPS">Habilite su GPS</string>
+</resources>
